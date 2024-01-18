@@ -1,0 +1,7 @@
+2024/01/18-02:36:10.172 1e84 Reusing MANIFEST D:\web-scraping\project-1\temp\Default\Local Storage\leveldb/MANIFEST-000001
+2024/01/18-02:36:10.174 1e84 Recovering log #3
+2024/01/18-02:36:10.175 1e84 Level-0 table #3: started
+2024/01/18-02:36:10.188 1e84 Level-0 table #3: 15375 bytes OK
+2024/01/18-02:36:10.188 1e84 Recovering log #4
+2024/01/18-02:36:10.190 1e84 Reusing old log D:\web-scraping\project-1\temp\Default\Local Storage\leveldb/000004.log 
+2024/01/18-02:36:10.200 1e84 Delete type=0 #3
